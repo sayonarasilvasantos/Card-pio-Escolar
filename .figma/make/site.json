@@ -1,0 +1,10 @@
+{
+  "description": "Create interactive prototypes for school menu applications, enabling educators and administrators to design and visualize meal options effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
